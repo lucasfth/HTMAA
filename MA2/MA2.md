@@ -43,3 +43,16 @@ Here then fit every part together to create the assembly, as seen below:
 ![Assembly](./assets/robot_rev1.png)
 
 You can access it here [here](https://a360.co/4jRMQlH).
+
+## 4. Slicing
+
+| Nozzle diameter | Layer height | Print speed |
+| --- | --- | --- |
+| 3 mm | 0.2 mm | 46 min |
+| 6 mm | 0.2 mm | 39 min |
+| 6 mm | 0.3 mm | 29 min |
+
+Screenshot of the slicing:
+
+| ![quality 3mm](./assets/quality_3mm.png) | ![quality 6mm](./assets/quality_6mm.png) | ![detail 6mm](./assets/detail_6mm.png) |
+| --- | --- | --- |
