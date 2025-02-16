@@ -13,6 +13,8 @@ The second goal was to have a design which looked slightly like a nuke.
 ![Base design only with the motors](assets/base_with_motors.png)
 ![Base design with all components](assets/base_with_everything.png)
 
+TODO ADD LINKS TO THE FILES
+
 You can see them in more details by following the links below:
 
 - [Base design with motors](assets/base_with_motors.png)
@@ -25,6 +27,7 @@ But you can see the design above.
 ## 3. Wheel Design
 
 TODO show real pictures of the wheels.
+TODO ADD LINKS TO THE FILES
 
 The rear wheels are the same as in MA2:
 
