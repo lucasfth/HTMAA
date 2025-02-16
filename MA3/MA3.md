@@ -13,11 +13,10 @@ The second goal was to have a design which looked slightly like a nuke.
 ![Base design only with the motors](assets/base_with_motors.png)
 ![Base design with all components](assets/base_with_everything.png)
 
-TODO ADD LINKS TO THE FILES
-
 You can see them in more details by following the links below:
 
-- [Base design with motors](assets/base_with_motors.png)
+- [Base design with motors](https://a360.co/4hDEWef)
+- [Base design with all components](https://a360.co/41iMyNC)
 
 ## 2. Laser Cutting
 
@@ -26,16 +25,20 @@ But you can see the design above.
 
 ## 3. Wheel Design
 
-TODO show real pictures of the wheels.
-TODO ADD LINKS TO THE FILES
-
 The rear wheels are the same as in MA2:
 
 ![Rear wheel](assets/rear_wheel.png)
+![Rear wheel real](assets/rear_wheel_r.png)
 
 We wanted to have fun with the front wheel, se we designed it as a drum wheel:
 
 ![Front wheel](assets/front_wheel.png)
+![Front wheel real](assets/front_wheel_r.png)
+
+You can see them in more details by following the links below:
+
+- [Rear wheel](https://a360.co/3CVIOIy)
+- [Front wheel](https://a360.co/41hDetd)
 
 ## 4. Robot Assembly
 
