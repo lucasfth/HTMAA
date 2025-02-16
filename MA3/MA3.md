@@ -43,4 +43,6 @@ Was shown in [1. Base Design](#1-base-design).
 
 ## 5. Technical Drawing
 
-TODO
+Here is the technical drawing with the basic dimensions of the robot assembly
+
+![Technical Drawing](assets/TechnicalDrawing.JPG)
