@@ -34,3 +34,9 @@ But for the slides we were shown it is not a mechanism.
 
 ## Designed Mechanism
 
+We have designed a belt drive mechanism with two sprockets that turns two wheels. Creating a live belt in fusion is not possible and or very time consuming according to multiple sources online, so this is a simulation of the belt drive where both the sprockets turn by animation which turns the wheels.
+
+Here is a link to see the mechanism. Try pulling on some of the components and see the others move as well.
+https://a360.co/41gLGrF
+
+![Belt drive](assets/BeltDrive.jpg)
