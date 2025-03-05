@@ -32,3 +32,7 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 ### Read switch (pressed)
 
 ![Read switch on](./assets/read_switch_on.png)
+
+## Note
+
+You can find all the circuits in [here](github.com/lucasfth/HTMAA/MA5/fritzing/MA5.fzz).
