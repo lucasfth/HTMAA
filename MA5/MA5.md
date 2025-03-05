@@ -36,7 +36,7 @@ Group: Luckas
 
 ![Control led with potentiometer](./assets/pic_control_led_with_potmeter.jpg)
 
-### Read potmeter with no resistance (aka kaboom)
+### Read potmeter with no resistance
 
 ![Read potmeter no resistance](./assets/read_potmeter_no_resistance.png)
 
@@ -61,3 +61,4 @@ Group: Luckas
 ## Note
 
 You can find all the circuits in [here](https://github.com/lucasfth/HTMAA/blob/main/MA5/fritzing/MA5.fzz).
+You can find all the schematics [here](https://github.com/lucasfth/HTMAA/blob/main/MA5/fritzing)
