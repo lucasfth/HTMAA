@@ -2,6 +2,8 @@
 
 Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Hanson ([luha](mailto:luha@itu.dk))
 
+Group: Luckas
+
 ## Exercise 1
 
 ![Exercise 1](./assets/exercise_1.png)
@@ -10,6 +12,7 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 ## Exercise 2
 
 ### Resistors
+
 ![Exercise 2](./assets/exercise_2_resistors.png)
 
 ### Parallel
@@ -20,13 +23,14 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 
 ![Exercise 2](./assets/pic_exercise_2_resistors_serial.jpg)
 
-### Voltage divider 
+### Voltage divider
+
 ![Exercise 2](./assets/exercise_2_voltage_divider.png)
 ![Exercise 2](./assets/pic_exercise_2_voltage_divider.jpg)
 
 ## 4 circuits
 
-### Control led with potentiometer circuit.
+### Control led with potentiometer circuit
 
 ![Control led with potentiometer](./assets/control_led_with_potentiometer.png)
 
