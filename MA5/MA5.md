@@ -5,11 +5,18 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 ## Exercise 1
 
 ![Exercise 1](./assets/exercise_1.png)
+![Exercise 1](./assets/pic_exercise_1.jpg)
 
 ## Exercise 2
 
+### Resistors
 ![Exercise 2](./assets/exercise_2_resistors.png)
+![Exercise 2](./assets/pic_exercise_2_resistors_parallel.jpg)
+![Exercise 2](./assets/pic_exercise_2_resistors_serial.jpg)
+
+### Voltage divider 
 ![Exercise 2](./assets/exercise_2_voltage_divider.png)
+![Exercise 2](./assets/pic_exercise_2_voltage_divider.jpg)
 
 ## 4 circuits
 
@@ -17,6 +24,7 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 
 ![Control led with potentiometer](./assets/control_led_with_potentiometer.png)
 
+![Control led with potentiometer](./assets/pic_control_led_with_potmeter.jpg)
 ### Read potmeter with no resistance (aka kaboom)
 
 ![Read potmeter no resistance](./assets/read_potmeter_no_resistance.png)
@@ -25,13 +33,19 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 
 ![Read potmeter resistance](./assets/read_potmeter_resistance.png)
 
+![Read potmeter resistance](./assets/pic_read_potmeter.jpg)
+
 ### Read switch (not pressed)
 
 ![Read switch off](./assets/read_switch_off.png)
 
+![Read switch on](./assets/pic_read_switch_off.jpg)
+
 ### Read switch (pressed)
 
 ![Read switch on](./assets/read_switch_on.png)
+
+![Read switch on](./assets/pic_read_switch_on.jpg)
 
 ## Note
 
