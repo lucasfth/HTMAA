@@ -35,4 +35,4 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 
 ## Note
 
-You can find all the circuits in [here](github.com/lucasfth/HTMAA/MA5/fritzing/MA5.fzz).
+You can find all the circuits in [here](https://github.com/lucasfth/HTMAA/blob/main/MA5/fritzing/MA5.fzz).
