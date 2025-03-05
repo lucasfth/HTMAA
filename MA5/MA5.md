@@ -11,7 +11,13 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 
 ### Resistors
 ![Exercise 2](./assets/exercise_2_resistors.png)
+
+### Parallel
+
 ![Exercise 2](./assets/pic_exercise_2_resistors_parallel.jpg)
+
+### Serial
+
 ![Exercise 2](./assets/pic_exercise_2_resistors_serial.jpg)
 
 ### Voltage divider 
@@ -25,6 +31,7 @@ Created by Lukas Engilbjartur Eliassen ([luel](mailto:luel@itu.dk)) and Lucas Ha
 ![Control led with potentiometer](./assets/control_led_with_potentiometer.png)
 
 ![Control led with potentiometer](./assets/pic_control_led_with_potmeter.jpg)
+
 ### Read potmeter with no resistance (aka kaboom)
 
 ![Read potmeter no resistance](./assets/read_potmeter_no_resistance.png)
