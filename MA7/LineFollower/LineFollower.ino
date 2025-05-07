@@ -1,28 +1,25 @@
 #define LMIN 13
-#define LMOUT 12
+#define LMOUT 3
 #define RMIN 11
-#define RMOUT 10
-
+#define RMOUT 5
 
 void setup() {
-  pinMode(LMIN,INPUT);
-  pinMode(LMOUT,OUTPUT);
-  pinMode(RMIN,INPUT);
-  pinMode(RMOUT,OUTPUT);
+  pinMode(LMIN, INPUT);
+  pinMode(LMOUT, OUTPUT);
+  pinMode(RMIN, INPUT);
+  pinMode(RMOUT, OUTPUT);
 }
 
 void loop() {
-  if (digitalRead(LMIN) == LOW){
-    digitalWrite(LMOUT,LOW);
+  if (digitalRead(LMIN) == LOW) {
+    analogWrite(LMOUT, 0); // Motor off
   } else {
-    digitalWrite(LMOUT,HIGH);
+    analogWrite(LMOUT, 220); // 50% power
   }
-  if (digitalRead(RMIN) == LOW){
-    digitalWrite(RMOUT,LOW);
-  } else {
-    digitalWrite(RMOUT,HIGH);
-  }
-  
-  // put your main code here, to run repeatedly:
 
+  if (digitalRead(RMIN) == LOW) {
+    analogWrite(RMOUT, 0); // Motor off
+  } else {
+    analogWrite(RMOUT, 170); // 50% power
+  }
 }
