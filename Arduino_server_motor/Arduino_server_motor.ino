@@ -15,9 +15,9 @@ void setup() {
 }
 
 void loop() {
-  myservo.write(35);
+  myservo.write(30);
   delay(1000);
-  myservo.write(55);
+  myservo.write(70);
   delay(1000);
 /*  // Tell the servo to go to a particular angle:
   myservo.write(90);
